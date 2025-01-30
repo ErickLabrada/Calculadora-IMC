@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calcualdora IMC</string>
+    <string name="height">Estatura</string>
+    <string name="weight">Peso</string>
+    <string name="Calculate">Calcular</string>
+
+</resources>
+
